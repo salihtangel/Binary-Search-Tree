@@ -1,5 +1,4 @@
-# Binary-Search-Tree
+# C programming
 STANGEL
 
-This file can help you to understand binary search trees in c
-this is a simple one and it can  be a example for your codes.
+This file can help you to understand  some c algorithms.
